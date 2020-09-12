@@ -2,6 +2,8 @@
 
 Track running processes on Trello.
 
+Install: `pip install trello-track`
+
 ## Why?
 
 Let's say you're running experiments on several machines. Wouldn't it be nice to have an easy way
